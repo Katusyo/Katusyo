@@ -11,6 +11,7 @@ I'm open to front-end, back-end and full stack role.
 - Harvard CS50 -- final project: game build in Scratch
    - www.youtube.com/watch?v=zTnfyTrRefk
    - https://scratch.mit.edu/projects/946228139/
+   - https://cs50.harvard.edu/certificates/405b164e-4689-4e39-9f0e-ec126b8463fe
 - Certificates via Coursera and LinkedIn Learning
 - 22 project repositories below, from HTML/CSS basics to data structures
 
