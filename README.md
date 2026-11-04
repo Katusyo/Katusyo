@@ -27,4 +27,3 @@ I'm open to front-end, back-end and full stack roles.
 ## Languages
 - English: native level
 - Cantonese: casual conversation level
-- Japanese: casual conversation level
