@@ -23,6 +23,9 @@ I'm open to front-end, back-end and full stack roles.
 - **Binary Search Tree** -- balanced BST implementation with Jest tests
    - [BST Github repository](https://github.com/Katusyo/binary-search-tree)
    - [Console demo -- open DevTools console to see output](https://katusyo.github.io/binary-search-tree/)
+- **Knights Travails** -- finds the shortest route for a knight between any two squares on a chessboard (breadth-first search), with an interactive animated board.
+   - [Knights Github repository](https://github.com/Katusyo/knight)
+   - [Live demo](https://katusyo.github.io/knight/)
 
 ## Languages
 - English: native level
