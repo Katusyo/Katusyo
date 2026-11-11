@@ -4,7 +4,7 @@ Aspiring web developer based in Tokyo, Japan, changing careers into programming.
 I'm open to front-end, back-end and full stack roles.
 
 ## What I'm doing now
-- Working through The Odin Project (JavaScript course -- just completed data structures(BST, HashMap)
+- Working through The Odin Project (JavaScript course -- just completed data structures(Knights Travails, BST, HashMap)
 - Building projects with vanilla JavaScript, webpack and Jest while I study
 
 ## Background
